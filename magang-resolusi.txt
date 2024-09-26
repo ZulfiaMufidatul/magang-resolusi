@@ -1,5 +1,5 @@
 Membuat sistem HOC 
-Membuat sistem arsip surat
 Membuat laporan magang
 LULUS
 KERJA
+SUKSES
